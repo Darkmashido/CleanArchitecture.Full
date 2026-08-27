@@ -34,7 +34,7 @@ waitForPostgres:
   image: postgres:trixie                                                                  
 
 probes:
-  path: /scalar
+  path: /api/accounts
   readiness:
     initialDelaySeconds: 10
     periodSeconds: 10

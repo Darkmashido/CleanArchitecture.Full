@@ -46,6 +46,10 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
                 .WithMany(c => c.Accounts)
                 .HasForeignKey(a => a.ClientId)
                 .OnDelete(DeleteBehavior.Cascade);
+
+            // Always include the related Client when querying Accounts
+            // This makes EF automatically eager-load the Client navigation so it won't be null
+            entity.Navigation(a => a.Client).AutoInclude();
         });
     }
 }
