@@ -1,11 +1,10 @@
 <Project>
 
-  <!-- Los archivos intermedios (obj/bin) se generan fuera de la ruta de varias carpetas para evitar
-       superar el límite de 260 caracteres de Windows (MAX_PATH), que hace fallar
-       la carga de proyectos en Visual Studio aunque "dotnet build" funcione por CLI. -->
+  <!-- Los archivos intermedios (obj/bin) se generan en la ruta estándar relativa al proyecto,
+       lo que garantiza compatibilidad en todos los sistemas operativos (Windows, Linux, macOS). -->
   <PropertyGroup>
-    <BaseIntermediateOutputPath>C:\ca-build\CleanArchitecture.Full\$(MSBuildProjectName)\obj\</BaseIntermediateOutputPath>
-    <BaseOutputPath>C:\ca-build\CleanArchitecture.Full\$(MSBuildProjectName)\bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(MSBuildProjectDirectory)\obj\</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(MSBuildProjectDirectory)\bin\</BaseOutputPath>
   </PropertyGroup>
 
 </Project>
