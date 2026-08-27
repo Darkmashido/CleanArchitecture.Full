@@ -1,0 +1,36 @@
+using CleanArchitecture.Full.Application.Clients;
+using CleanArchitecture.Full.Domain;
+
+namespace CleanArchitecture.Full.Application.Accounts;
+
+public static class AccountMappingExtensions
+{
+    public static AccountDto ToDto(this Account account)
+    {
+        var clientDto = account.Client is not null
+            ? new ClientDto(
+                account.Client.Id,
+                account.Client.Name,
+                account.Client.Email,
+                account.Client.PhoneNumber,
+                account.Client.DocumentNumber,
+                account.Client.DocumentType,
+                account.Client.CreatedAt,
+                account.Client.LastModifiedAt)
+            : null;
+
+        return new AccountDto(
+            account.Id,
+            account.ClientId,
+            account.AccountNumber,
+            account.HolderName,
+            account.Balance,
+            account.Status,
+            account.CreatedAt,
+            account.AccountType,
+            account.OpenedAt,
+            account.LastModifiedAt,
+            clientDto);
+    }
+}
+

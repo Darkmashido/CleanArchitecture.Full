@@ -1,0 +1,18 @@
+﻿namespace CleanArchitecture.Full.Domain;
+
+public class Account
+{
+    public Guid Id { get; set; }
+    public Guid ClientId { get; set; }
+    public string AccountNumber { get; set; } = string.Empty;
+    public string HolderName { get; set; } = string.Empty;
+    public decimal Balance { get; set; }
+    public string Status { get; set; } = "Active";
+    public DateTime CreatedAt { get; set; }
+    public string AccountType { get; set; } = "Savings";
+    public DateTime OpenedAt { get; set; }
+    public DateTime? LastModifiedAt { get; set; }
+
+    // Navigation property
+    public Client? Client { get; set; }
+}

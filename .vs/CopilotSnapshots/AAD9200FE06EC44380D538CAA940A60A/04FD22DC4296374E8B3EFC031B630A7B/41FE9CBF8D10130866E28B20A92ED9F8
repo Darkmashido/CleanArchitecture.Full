@@ -1,0 +1,118 @@
+﻿using CleanArchitecture.Full.Domain;
+
+namespace CleanArchitecture.Full.Infrastructure.Persistence;
+
+public static class DbSeeder
+{
+    public static void Seed(AppDbContext context)
+    {
+        // Check if data already exists
+        if (context.Clients.Any() || context.Accounts.Any())
+        {
+            return;
+        }
+
+        // Create clients first
+        var client1Id = Guid.NewGuid();
+        var client2Id = Guid.NewGuid();
+        var client3Id = Guid.NewGuid();
+
+        var clients = new List<Client>
+        {
+            new Client
+            {
+                Id = client1Id,
+                Name = "Ada Lovelace",
+                Email = "ada.lovelace@bank.com",
+                PhoneNumber = "+34 600 123456",
+                DocumentNumber = "12345678A",
+                DocumentType = "DNI",
+                CreatedAt = DateTime.UtcNow,
+                LastModifiedAt = null
+            },
+            new Client
+            {
+                Id = client2Id,
+                Name = "Alan Turing",
+                Email = "alan.turing@bank.com",
+                PhoneNumber = "+34 600 654321",
+                DocumentNumber = "87654321B",
+                DocumentType = "DNI",
+                CreatedAt = DateTime.UtcNow,
+                LastModifiedAt = null
+            },
+            new Client
+            {
+                Id = client3Id,
+                Name = "Grace Hopper",
+                Email = "grace.hopper@bank.com",
+                PhoneNumber = "+34 600 789012",
+                DocumentNumber = "11223344C",
+                DocumentType = "DNI",
+                CreatedAt = DateTime.UtcNow,
+                LastModifiedAt = DateTime.UtcNow.AddMonths(-6)
+            }
+        };
+
+        context.Clients.AddRange(clients);
+        context.SaveChanges();
+
+        // Create accounts related to clients
+        context.Accounts.AddRange(
+            new Account
+            {
+                Id = Guid.NewGuid(),
+                ClientId = client1Id,
+                AccountNumber = "ACC-0001",
+                HolderName = "Ada Lovelace",
+                Balance = 15000.50m,
+                Status = "Active",
+                CreatedAt = DateTime.UtcNow,
+                AccountType = "Savings",
+                OpenedAt = DateTime.UtcNow.AddYears(-2),
+                LastModifiedAt = null
+            },
+            new Account
+            {
+                Id = Guid.NewGuid(),
+                ClientId = client1Id,
+                AccountNumber = "ACC-0004",
+                HolderName = "Ada Lovelace",
+                Balance = 5200.75m,
+                Status = "Active",
+                CreatedAt = DateTime.UtcNow,
+                AccountType = "Checking",
+                OpenedAt = DateTime.UtcNow.AddYears(-1),
+                LastModifiedAt = null
+            },
+            new Account
+            {
+                Id = Guid.NewGuid(),
+                ClientId = client2Id,
+                AccountNumber = "ACC-0002",
+                HolderName = "Alan Turing",
+                Balance = 8320.00m,
+                Status = "Active",
+                CreatedAt = DateTime.UtcNow,
+                AccountType = "Checking",
+                OpenedAt = DateTime.UtcNow.AddYears(-1),
+                LastModifiedAt = null
+            },
+            new Account
+            {
+                Id = Guid.NewGuid(),
+                ClientId = client3Id,
+                AccountNumber = "ACC-0003",
+                HolderName = "Grace Hopper",
+                Balance = 0.00m,
+                Status = "Inactive",
+                CreatedAt = DateTime.UtcNow,
+                AccountType = "Savings",
+                OpenedAt = DateTime.UtcNow.AddYears(-3),
+                LastModifiedAt = DateTime.UtcNow.AddMonths(-6)
+            });
+
+        context.SaveChanges();
+    }
+}
+

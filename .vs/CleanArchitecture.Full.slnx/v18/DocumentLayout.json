@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\commands\\createaccount\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\commands\\createaccount\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\endpoints\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\endpoints\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\endpoints\\clientendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\endpoints\\clientendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\queries\\getaccountbyid\\getaccountbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\queries\\getaccountbyid\\getaccountbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\queries\\getallaccounts\\getallaccountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\queries\\getallaccounts\\getallaccountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\queries\\getallaccounts\\getallaccountsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\queries\\getallaccounts\\getallaccountsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\clients\\clientmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\clients\\clientmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\accountmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\accountmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\clients\\queries\\getallclients\\getallclientsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\clients\\queries\\getallclients\\getallclientsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\clients\\queries\\getallclients\\getallclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\clients\\queries\\getallclients\\getallclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\.copilot\\plans\\plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\.copilot\\plans\\plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\.copilot\\plans\\plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.domain\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|solutionrelative:src\\cleanarchitecture.full.domain\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\queries\\getaccountbyid\\getaccountbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\queries\\getaccountbyid\\getaccountbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\commands\\createaccount\\createaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\commands\\createaccount\\createaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\cleanarchitecture.full.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\cleanarchitecture.full.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\middleware\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\middleware\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\migrations\\20260822145024_initialcreatewithclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\migrations\\20260822145024_initialcreatewithclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\migrations\\20260822144505_addclientandupdateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\migrations\\20260822144505_addclientandupdateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.infrastructure\\migrations\\20260715204918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32F8BE0-DDAA-3E67-801A-8D87EA1271B1}|src\\CleanArchitecture.Full.Infrastructure\\CleanArchitecture.Full.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.full.infrastructure\\migrations\\20260715204918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|solutionrelative:src\\cleanarchitecture.full.domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A884DE2-71E1-6982-FA99-5B2044A23A57}|src\\CleanArchitecture.Full.Domain\\CleanArchitecture.Full.Domain.csproj|solutionrelative:src\\cleanarchitecture.full.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\commands\\updateaccount\\updateaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\commands\\updateaccount\\updateaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.application\\accounts\\commands\\updateaccount\\updateaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0981E339-526F-B438-68C3-FE1E58D99595}|src\\CleanArchitecture.Full.Application\\CleanArchitecture.Full.Application.csproj|solutionrelative:src\\cleanarchitecture.full.application\\accounts\\commands\\updateaccount\\updateaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\MIGRATION_INSTRUCTIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MIGRATION_INSTRUCTIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\cleanarchitecture.full.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\cleanarchitecture.full.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|c:\\users\\orlan\\downloads\\cleanarchitecture.full\\cleanarchitecture.full\\src\\cleanarchitecture.full.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C8DDCD-9031-6863-EBA4-E9540F67933F}|src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj|solutionrelative:src\\cleanarchitecture.full.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T21:50:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T21:50:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Endpoints\\ClientEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\Endpoints\\ClientEndpoints.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Endpoints\\ClientEndpoints.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\Endpoints\\ClientEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:38:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Endpoints\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\Endpoints\\AccountEndpoints.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Endpoints\\AccountEndpoints.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\Endpoints\\AccountEndpoints.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:21:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommand.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:49:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Program.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T23:08:36.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:02:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAccountByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:02:57.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllAccountsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQueryHandler.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:02:05.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T03:35:36.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllAccountsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQuery.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQuery.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQuery.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAllAccounts\\GetAllAccountsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:41:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T22:59:03.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllClientsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQueryHandler.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:43:15.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\ClientMappingExtensions.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Clients\\ClientMappingExtensions.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\ClientMappingExtensions.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Clients\\ClientMappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:48:01.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\ClientDto.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Clients\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\ClientDto.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Clients\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:45:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\AccountMappingExtensions.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\AccountMappingExtensions.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\AccountMappingExtensions.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\AccountMappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:53:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllClientsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQuery.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQuery.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQuery.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Clients\\Queries\\GetAllClients\\GetAllClientsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:40:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T12:37:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:37:40.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\orlan\\.copilot\\plans\\plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md",
+              "ToolTip": "C:\\Users\\orlan\\.copilot\\plans\\plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md [Preview]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-eliminar-email-y-phonenumber-de-account-consolidar-en-client.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-26T03:26:02.662Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md [Preview]",
+              "DocumentMoniker": "C:\\Users\\orlan\\.copilot\\plans\\plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md",
+              "ToolTip": "C:\\Users\\orlan\\.copilot\\plans\\plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md [Preview]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-crear-tabla-client-y-relacionarla-con-account-(one-to-many).md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-26T03:26:02.51Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\orlan\\.copilot\\plans\\plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md",
+              "ToolTip": "C:\\Users\\orlan\\.copilot\\plans\\plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md [Preview]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-expandir-clase-account-con-propiedades-bancarias-relevantes.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-22T13:22:50.907Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\AccountDto.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\AccountDto.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\AccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T03:11:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Domain\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\IClientRepository.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Domain\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:45:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAccountByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQuery.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQuery.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Queries\\GetAccountById\\GetAccountByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:02:56.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateAccountCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommandHandler.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommandHandler.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\CreateAccount\\CreateAccountCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:00:57.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:46:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CleanArchitecture.Full.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-16T23:28:53.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\appsettings.json",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T22:59:19.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ValidationExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\Middleware\\ValidationExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T21:06:19.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260822145024_InitialCreateWithClient.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822145024_InitialCreateWithClient.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822145024_InitialCreateWithClient.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822145024_InitialCreateWithClient.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822145024_InitialCreateWithClient.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T14:57:47.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260822144505_AddClientAndUpdateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822144505_AddClientAndUpdateAccount.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822144505_AddClientAndUpdateAccount.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822144505_AddClientAndUpdateAccount.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260822144505_AddClientAndUpdateAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T14:58:35.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260715204918_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260715204918_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260715204918_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260715204918_InitialCreate.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Infrastructure\\Migrations\\20260715204918_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:02:19.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAN0TAAAAAAAAAAAnwOcTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-22T14:56:38.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateAccountCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommandHandler.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommandHandler.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:01:27.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommand.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommand.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Application\\Accounts\\Commands\\UpdateAccount\\UpdateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:21:35.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\Account.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Domain\\Account.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\Account.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Domain\\Account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:51:50.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\Client.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Domain\\Client.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Domain\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:45:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MIGRATION_INSTRUCTIONS.md",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\MIGRATION_INSTRUCTIONS.md",
+              "RelativeDocumentMoniker": "MIGRATION_INSTRUCTIONS.md",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\MIGRATION_INSTRUCTIONS.md",
+              "RelativeToolTip": "MIGRATION_INSTRUCTIONS.md",
+              "ViewState": "AgIAAGYAAAAAAAAAAIBJwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-22T13:47:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CleanArchitecture.Full.Api.http",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.http",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.http",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.http",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\CleanArchitecture.Full.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-16T02:21:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Full.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\orlan\\Downloads\\CleanArchitecture.Full\\CleanArchitecture.Full\\src\\CleanArchitecture.Full.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\CleanArchitecture.Full.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T23:38:12.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

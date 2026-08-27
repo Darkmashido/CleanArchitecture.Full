@@ -1,0 +1,16 @@
+using CleanArchitecture.Full.Application.Clients;
+
+namespace CleanArchitecture.Full.Application.Accounts;
+
+public record AccountDto(
+    Guid Id,
+    Guid ClientId,
+    string AccountNumber,
+    string HolderName,
+    decimal Balance,
+    string Status,
+    DateTime CreatedAt,
+    string AccountType,
+    DateTime OpenedAt,
+    DateTime? LastModifiedAt,
+    ClientDto? Client);

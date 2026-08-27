@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(dotnet nuget locals all --list)",
+      "PowerShell(Invoke-RestMethod -Uri \"https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/index.json\")",
+      "PowerShell(dotnet tool list -g 2>&1)",
+      "PowerShell(dotnet ef --version 2>&1)",
+      "PowerShell(dotnet tool install --global dotnet-ef 2>&1)",
+      "PowerShell(Test-NetConnection -ComputerName localhost -Port 5432 -WarningAction SilentlyContinue)",
+      "PowerShell(Get-Process -Name postgres -ErrorAction SilentlyContinue)",
+      "PowerShell(docker --version 2>&1)"
+    ]
+  }
+}
